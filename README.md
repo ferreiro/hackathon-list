@@ -38,7 +38,6 @@ If you are looking for a dev `starter-kit` for your next hackathon,
 
 💬 [Create a new Pull Request](https://github.com/ferreiro/hackathon-list/pulls)
 
-
 ## My social networks
 
 * Twitter: [https://www.twitter.com/jgferreiro](https://www.twitter.com/jgferreiro)
